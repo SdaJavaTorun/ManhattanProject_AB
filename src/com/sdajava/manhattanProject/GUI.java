@@ -5,7 +5,7 @@ package com.sdajava.manhattanProject;
  */
 public class GUI {
 
-    public static String menuTitle="Projekt Manhattan";  //przykład GUI -> Main
+    public static String menuTitle="Projekt Manhattan";
 
 
 

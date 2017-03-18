@@ -14,7 +14,6 @@ public class Main {
 
         while (menuFlag) {
 
-
             System.out.println(GUI.menuTitle);
             GUI.showMenu();
             option = in.nextInt();
